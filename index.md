@@ -1,6 +1,7 @@
+
 ## Welcome to My New Pages
 
-You can use the [editor on GitHub](https://github.com/nalabdoniv/Coursera/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I can use the [editor on GitHub](https://github.com/nalabdoniv/Coursera/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 This is a very good method to create a new website :-)
@@ -15,7 +16,7 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- Bulleted
+- Mulleted
 - List
 
 1. Numbered
