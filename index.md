@@ -1,4 +1,4 @@
-## Welcome to My Pages
+## Welcome to My New Pages
 
 You can use the [editor on GitHub](https://github.com/nalabdoniv/Coursera/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
